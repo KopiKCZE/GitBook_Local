@@ -2,6 +2,7 @@
 
 * [Home](README.md)
 * [Help](help.md)
+* [GitHubprci](githubprci.md)
 
 ## Resources
 
